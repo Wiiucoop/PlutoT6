@@ -3,27 +3,27 @@
 
 # Plutonium (PlutoT6)
 ![Status](https://img.shields.io/badge/Status-Online-yellow.svg) ![Release](https://img.shields.io/badge/Release-353-green.svg) ![Size](https://img.shields.io/badge/Size-80%2C70%20MB-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-- **PlutoT6** es el proyecto de **Plutonium** para poder jugar al **Call of Duty: Black Ops II** (con el nombre en clave (oficial) de **T6**).
-  - También cuenta con su proyecto PlutoIW5 para Call of Duty: Modern Warfare 3 (IW5).
-- Lamentablemente, los desarrolladores perdieron las ganas de seguir con ambos proyectos y los cancelaron. Pero solo **PlutoT6** se puede seguir jugando **ONLINE**, dado que mantienen la lista de servidores.
-  - Eso significa que, incluso si la lista de servidores se cae, podrás seguir jugando mientras tengas la IP y Puerto del servidor. Además de que puedes jugar de forma OFFLINE y en LAN.
+- **PlutoT6** é o projeto de **Plutonium** para poder jogar **Call of Duty: Black Ops II** (com o nome chave (oficial) de **T6**).
+  - Também conta com seu projeto PlutoIW5 para Call of Duty: Modern Warfare 3 (IW5).
+- Lamentavelmente, os desenvolvedores perderam o desejo de continuar com os dois projetos e os cancelaram. Mas somente o ** PlutoT6 ** pode continuar jogando **ONLINE**, pois eles mantêm a lista de servidores.
+  - Isso significa que, mesmo se a lista de servidores for fechada, ainda poderá continuar jogando conectando através de IP e Porta do Servidor. Além de que pode jogar de forma OFFLINE e LAN.
 
 ## Aviso
-- Este repositorio no contiene ningún código de PlutoT6, tan solo proporciona soporte y ayuda a los usuarios de habla hispana.
-- **Plutonium** no apoya la piratería, además de que no puedes usar copias de **Skidrow** / **nosTEAM** (necesitarás una copia del juego original, o una pirata con sus archivos actualizados).
-- **PlutoT6** se encuentra **sin acabar**, y ha sido cancelado. Podrás seguir jugando de forma Online y Offiline, solamente no vas a ver nuevas actualizaciones.
+- Este repositorio não contém nenhum código fonte do PlutoT6, e só proporciona ajuda aos usuários que falam o Português.
+- **Plutonium** não apoia a pirataría, tanto que não poderá usar copias de **Skidrow** / **nosTEAM** para instalar o cliente. (Você precisará de uma cópia do jogo original ou de uma cópia pirata com seus arquivos atualizados).
+- **PlutoT6** está **inacabado** e foi cancelado. Você pode continuar jogando Online e Offiline, só que não verá novas atualizações.
 
-## Tabla de Contenidos
+## Tabela de conteúdos
 - [Cliente](../../wiki/Cliente)
   - [Requisitos](../../wiki/Cliente#requisitos)
     - [Aviso](../../wiki/Cliente#aviso)
-  - [Proceso de Instalación](../../wiki/Cliente#proceso-de-instalación)
+  - [Proceso de instalação](../../wiki/Cliente#proceso-de-instalação)
 - [Servidor](../../wiki/Servidor)
   - [Requisitos](../../wiki/Servidor#requisitos)
     - [Aviso](../../wiki/Servidor#aviso)
-  - [Proceso de Instalación](../../wiki/Servidor#proceso-de-instalación)
-  - [Optimización: Archivos Necesarios](../../wiki/Servidor#optimización-archivos-necesarios)
-- [Preguntas Frecuentes](../../wiki/Preguntas-Frecuentes)
+  - [Proceso de instalação](../../wiki/Servidor#proceso-de-instalação)
+  - [Otimização: Arquivos Necessários](../../wiki/Servidor#otimizacão-arquivos-necesarios)
+- [Perguntas Frequentes](../../wiki/Perguntas-Frequentes)
   - [¿Qué versiones del juego puedo usar para jugar por PlutoT6?](../../wiki/Preguntas-Frecuentes#qué-versiones-del-juego-puedo-usar-para-jugar-por-plutot6)
   - [¿Qué idiomas soporta PlutoT6?](../../wiki/Preguntas-Frecuentes#qué-idiomas-soporta-plutot6)
   - [¿Necesito los DLCs?](../../wiki/Preguntas-Frecuentes#necesito-los-dlcs)
